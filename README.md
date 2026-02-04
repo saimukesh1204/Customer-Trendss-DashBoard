@@ -31,7 +31,7 @@ The objective is to uncover **spending patterns, customer segments, product pref
 ---
 
 ## 🗄️ SQL Business Insights
-Structured queries in PostgreSQL revealed key findings:
+Structured queries in MySQL revealed key findings:
 
 - **Revenue by Gender** → Male customers generated higher revenue than female customers  
 - **High-Spending Discount Users** → Customers using discounts but spending above average  
